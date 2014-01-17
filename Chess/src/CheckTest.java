@@ -14,6 +14,7 @@ public class CheckTest extends JFrame {
 		getContentPane().add(panel);
 		panel.setLayout(new GridLayout(8, 8, 0, 0));
 		
+		
 		JButton button = new JButton("");
 		panel.add(button);
 		
